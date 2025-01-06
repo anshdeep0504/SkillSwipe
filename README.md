@@ -1,6 +1,6 @@
 # SkillSwipe
 
-SkillSwipe is a web application designed to help users explore and enhance their skills by connecting with industry professionals. This platform allows users to track their learning progress, share experiences, and engage in skill-based challenges.
+SkillSwipe is a modern web application built with **React** and **Vite**, designed to help users explore and enhance their skills through challenges, community interactions, and skill tracking. With a sleek and responsive UI, SkillSwipe ensures a seamless experience across all devices.
 
 ---
 
@@ -18,33 +18,33 @@ SkillSwipe is a web application designed to help users explore and enhance their
 
 ## Project Description
 
-SkillSwipe is built to provide users with a unique platform to not only develop their skills but also engage with a community of learners and professionals. Users can participate in challenges, earn badges, and showcase their achievements to stand out in the job market.
+SkillSwipe is built to provide a platform where users can engage with challenges, track their progress, and connect with others. The application leverages modern frontend technologies like React and Vite for fast development and build times, while styling is handled by Tailwind CSS for a clean and responsive layout.
 
 ---
 
 ## Features
 
-- **User Authentication**: Sign-up and log in with email/password or through social logins.
-- **Skill Tracking**: Track your progress in various skill categories.
-- **Challenges**: Participate in challenges to earn badges and level up your skills.
-- **Community Interaction**: Connect with industry professionals and fellow learners.
-- **Responsive Design**: Optimized for desktop, tablet, and mobile views.
+- **User Authentication**: Secure sign-up and login functionality.
+- **Skill Tracking**: Track your progress across various skill categories.
+- **Challenges**: Participate in skill-based challenges to earn rewards.
+- **Community Interaction**: Engage with professionals and other learners.
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
 
 ---
 
 ## Technologies Used
 
-- **Frontend**: React, Tailwind CSS, Vite
-- **Backend**: Node.js, Express (if applicable)
-- **Database**: MongoDB (if applicable)
-- **Authentication**: Firebase Auth (if applicable)
-- **Deployment**: Vercel, Netlify (or any other platform you use)
+- **Frontend**: React, Vite, Tailwind CSS, Framer Motion
+- **State Management**: Zustand (for global state management)
+- **Development Tools**: ESLint, Prettier, TypeScript
+- **Build and Bundling**: Vite (for fast build and development)
+- **Animation**: MotionOne, Framer Motion
 
 ---
 
 ## Installation Instructions
 
-1. Clone the repository:
+1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/anshdeep0504/SkillSwipe.git
